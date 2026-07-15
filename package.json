@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-bot-dashboard",
+  "version": "1.0.0",
+  "description": "Baileys WhatsApp Bot with Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
